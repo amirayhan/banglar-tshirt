@@ -1,0 +1,12 @@
+.navbar {
+    position: sticky;
+    top: 0;
+    width: 100%;
+}
+.navbar .navbar-brand {
+    color: #fff;
+    font-weight: 700;
+}
+.navbar .nav-link {
+    color: #fff;
+}
